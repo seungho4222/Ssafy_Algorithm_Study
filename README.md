@@ -29,6 +29,30 @@
             </a>
         </td>
     </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <br />
+            <a href="https://github.com/markrla">김범수
+            </a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <br />
+            <a href="https://github.com/markrla">김범수
+            </a>
+        </td>        <td align="center" width="130px">
+            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <br />
+            <a href="https://github.com/markrla">김범수
+            </a>
+        </td>        <td align="center" width="130px">
+            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <br />
+            <a href="https://github.com/markrla">김범수
+            </a>
+        </td>
+    </tr>
 
    <tr height="50px">
         <td align="center">
@@ -52,10 +76,14 @@
 * 본인의 개인 파일에 업로드
 * 올릴때 각 코드와 간단한 풀이 설명 필수 ( 시간 복잡도, 사용한 개념 등 )  
 * 스터디 시간때는 각 풀이공유나 학습한 개념을 공유
-### 파일 관리 & git commit 방식
-* 파일 : 
-* 커밋 : 
+### 파일 관리 
+* 파일 : 개인 파일/1주차/문제번호_문제명.py
+## 4. 학습 사이트
+* [프로그래머스 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+* [백준 코드플러스 알고리즘 기초](https://www.acmicpc.net/workbook/codeplus)
 
-
-
+### 참고
+* [백준 week 추천 문제](https://www.acmicpc.net/search#q=%20postcookie&c=Workbooks)
+* [공부 방법 참고 사이트](https://dev-dain.tistory.com/155)
+* [백준 문제집](https://github.com/tony9402/baekjoon)
 
