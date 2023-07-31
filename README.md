@@ -37,19 +37,19 @@
             </a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <a href="https://github.com/klica123456"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411426?v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">김범수
+            <a href="https://github.com/klica123456">정구민
+            </a>
+        </td>        <td align="center" width="130px">
+            <a href="https://github.com/yun73"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411504?v=4"/></a>
+            <br />
+            <a href="https://github.com/yun73">이윤형
             </a>
         </td>        <td align="center" width="130px">
             <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">김범수
-            </a>
-        </td>        <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
-            <br />
-            <a href="https://github.com/markrla">김범수
+            <a href="https://github.com/markrla">주홍찬
             </a>
         </td>
     </tr>
