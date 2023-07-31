@@ -47,9 +47,9 @@
             <a href="https://github.com/yun73">이윤형
             </a>
         </td>        <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <a href="https://github.com/RupertJoo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/92567198?v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">주홍찬
+            <a href="https://github.com/RupertJoo">주홍찬
             </a>
         </td>
     </tr>
