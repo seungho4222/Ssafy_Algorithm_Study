@@ -54,16 +54,6 @@
         </td>
     </tr>
 
-   <tr height="50px">
-        <td align="center">
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-        </td>
-        <td align="center">
-        </td>
-    </tr>
 </table>
 
 ## 3. 진행 방식
