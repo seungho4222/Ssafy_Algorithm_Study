@@ -13,27 +13,27 @@
             </a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <a href="https://github.com/seungho4222"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411534?v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">김범수
+            <a href="https://github.com/seungho4222">이승호
             </a>
         </td>        <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <a href="https://github.com/jgh05168"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/97810918?v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">김범수
+            <a href="https://github.com/jgh05168">전규훈
             </a>
         </td>        <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <a href="https://github.com/jjaehong"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411447?v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">김범수
+            <a href="https://github.com/jjaehong">승재홍
             </a>
         </td>
     </tr>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/markrla"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411566?s=400&v=4"/></a>
+            <a href="https://github.com/le-monaaa"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/101534897?v=4"/></a>
             <br />
-            <a href="https://github.com/markrla">김범수
+            <a href="https://github.com/le-monaaa">이유빈
             </a>
         </td>
         <td align="center" width="130px">
