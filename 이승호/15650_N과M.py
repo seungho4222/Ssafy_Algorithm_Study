@@ -24,8 +24,8 @@ for i in range(1<<N):
 #     print(*i)
 
 # 버블 정렬
-for k in range(len(seq)-1):
-    for i in range(len(seq)-1-k):
+for k in range(len(seq)-1, 0, -1):
+    for i in range(k):
         j = 0
         if seq[i][j] > seq[i+1][j]:
             seq[i], seq[i+1] = seq[i+1], seq[i]
