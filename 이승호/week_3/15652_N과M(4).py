@@ -1,19 +1,24 @@
 N, M = map(int, input().split())
+nums = [num for num in range(1, N+1)]
 selected = [0] * N
-result = []
 
 def perm(i):
-    global selected, result
-    if i == N:
-        temp = []
-        for j in range(N):
-            temp += [selected[j]]
+    # 종료조건
+    if i == M:
+        for k in selected:
+            if not k:
+                print()
+                return
+            else:
+                print(k, end=' ')
+        print()
         return
-    
-    for k in range(N):
-        selected[i] = k+1
+    # 순열 고르기
+    for j in range(N):
+        if selected[i-1] > nums[j]:
+            continue
+        selected[i] = nums[j]
         perm(i+1)
         selected[i] = 0
-    return temp
 
-print(perm(0))
+perm(0)
