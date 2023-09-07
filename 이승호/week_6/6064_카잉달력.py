@@ -38,3 +38,11 @@ for _ in range(T):
     m, n, x, y = map(int, input().split())
 
     print(calculate(m, n, x, y))
+
+'''
+3
+10 12 3 9
+10 12 7 2
+13 11 5 6
+
+'''
