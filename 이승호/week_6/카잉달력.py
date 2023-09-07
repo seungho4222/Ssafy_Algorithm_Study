@@ -10,22 +10,23 @@ T = int(input())
 for tc in range(1, T+1):
     M, N, x, y = map(int, input().split())  # (M, N)은 마지막해, (x, y)는 찾아야 하는 해
     diff = abs(M-N)
-    a, b, k = 1, M+1, 1
     if x == y:
         print(x)
     elif M < N:
-        check = False
-        while b-a != diff:
-            b -= diff
+        a, b, k = 1, M+1, 1
+        check = True
+        while a != 1 and b != 1 + diff:
+            b = b-diff
             k += M
-            if abs(b-a) == abs(x-y):
+            if abs(a-b) == abs(x-y):
                 check = True
                 break
         if check:
             k += x-1
             print(k)
-    elif M > N:
+    elif x < y:
         ...
+
 
     '''
       10 12
