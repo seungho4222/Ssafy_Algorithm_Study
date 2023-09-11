@@ -1,14 +1,14 @@
 dir = {'A':1, 'B':2, 'C':3, 'D':4, 'E':5, 'F':6, 'G':7, 'H':8, 'I':9, 
        'J':10, 'K':11, 'L':12, 'M':13, 'N':14, 'O':15, 'P':16, 'Q':17,
        'R':18, 'S':19, 'T':20, 'U':21, 'V':22, 'W':23, 'X':24, 'Y':25, 'Z':26}
-
+# 알파벳 <-> 숫자 연결시키기
 alphabet = [0,'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 
-N = int(input())
-cleft = [0] * 27
-cright = [0] * 27
+N = int(input())  # 간선 수
+cleft = [0] * 27  # 왼쪽 자식 노드
+cright = [0] * 27  # 오른쪽 자식 노드
 for _ in range(N):
-    p, cl, cr = input().split()
+    p, cl, cr = input().split()  # 입력값: 알파벳 or '.'
     if cl != '.':
         cleft[dir[p]] = dir[cl]
     if cr != '.':
