@@ -1,22 +1,10 @@
 N = int(input())  # 구매하려는 카드 수
 p = [0] + list(map(int, input().split()))  # 카드 가격
-# max_v = 0
 
-# def purchase(idx, total):
-#     global max_v
-#     if idx > N:
-#         return
-#     if idx == N:
-#         max_v = max(max_v, total)
-#         return
-    
-#     for i in range(1, N+1):
-#         purchase(idx+i, total+p[i])
+memo = [0] * (N+1)  # 메모이제이션
 
-# purchase(0,0)
-# print(max_v)
+for i in range(1, N+1):  # 카드개수별 (1 ~ N) 최대값 메모
+    for j in range(1, i+1):  # i를 만들 수 있는 메모값 조합 반복
+        memo[i] = max(memo[i], p[j] + memo[i-j])  # 최대값 저장
 
-memo = [0] * (N+1)
-
-for i in range(1, N+1):
-    memo[i] = max(p[i])
+print(memo[N])
