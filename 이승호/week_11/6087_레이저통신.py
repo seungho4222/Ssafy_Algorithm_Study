@@ -44,9 +44,9 @@ def dijkstra(sr, sc):
             if cost <= D[ur][uc]:
                 D[ur][uc] = cost
                 heappush(q, (cost, ur, uc, d))
-        if D[laser[1][0]][laser[1][1]] != 10000:
-            break
+            if D[laser[1][0]][laser[1][1]] != 10000:
+                return D[laser[1][0]][laser[1][1]]
 
-dijkstra(laser[0][0], laser[0][1])
+k = dijkstra(laser[0][0], laser[0][1])
 
-print(D[laser[1][0]][laser[1][1]])
+print(k)
